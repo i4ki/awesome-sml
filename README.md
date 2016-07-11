@@ -9,7 +9,7 @@ Useful things for Standard ML
 # Data structures
 
 - [Purely Functional Data Structures](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
-- 
+
 # Compilers
 
 - [Standard ML of New Jersey](http://www.smlnj.org/)
