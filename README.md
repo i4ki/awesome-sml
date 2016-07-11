@@ -4,7 +4,7 @@ Useful things for Standard ML
 # Language References
 
 - [Language definition](http://sml-family.org/sml97-defn.pdf)
-- [Programming in Standard ML - Robert Harper](http://www.cs.cmu.edu/~rwh/smlbook/book.pdf)
+- [Programming in Standard ML - Robert Harper](http://www.cs.cmu.edu/~rwh/isml/book.pdf)
 
 # Data structures
 
