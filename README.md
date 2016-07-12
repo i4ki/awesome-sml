@@ -6,6 +6,10 @@ Useful things for Standard ML
 - [Language definition](http://sml-family.org/sml97-defn.pdf)
 - [Programming in Standard ML - Robert Harper](http://www.cs.cmu.edu/~rwh/isml/book.pdf)
 
+# Tutorial books
+
+- [Unix System Programming with SML](http://web.archive.org/web/20040618124645/http://web.access.net.au/felixadv/files/output/sysprogsml.pdf)
+
 # Data structures
 
 - [Purely Functional Data Structures](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
