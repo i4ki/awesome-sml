@@ -21,6 +21,10 @@ Useful things for Standard ML
 - [CakeML](https://cakeml.org/)
 - [Moscow ML](http://mosml.org/)
 
+# Package managers
+
+- [Smackage](https://github.com/standardml/smackage)
+
 # Blogs
 
 [Robert Harper](https://existentialtype.wordpress.com/)
