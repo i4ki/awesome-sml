@@ -20,6 +20,8 @@ Useful things for Standard ML
 - [MLton](http://mlton.org/)
 - [CakeML](https://cakeml.org/)
 - [Moscow ML](http://mosml.org/)
+- [Alice](http://www.ps.uni-saarland.de/alice/)
+- [HaMLet](https://people.mpi-sws.org/~rossberg/hamlet/)
 
 # Package managers
 
