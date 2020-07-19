@@ -16,14 +16,15 @@ Useful things for the Standard ML programming language.
 
 - [Purely Functional Data Structures](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
 
-# Compilers
+# Implementations
 
-- [Standard ML of New Jersey](http://www.smlnj.org/)
-- [MLton](http://mlton.org/)
-- [CakeML](https://cakeml.org/)
-- [Moscow ML](http://mosml.org/)
-- [Alice](http://www.ps.uni-saarland.de/alice/)
-- [HaMLet](https://people.mpi-sws.org/~rossberg/hamlet/)
+- [SML/NJ (Standard ML of New Jersey)](http://www.smlnj.org/): the canonical SML compiler
+- [MLton](http://mlton.org/): very advanced whole-program optimizing compiler
+- [Poly/ML](https://polyml.org): good compiler with threads and concurrent GC
+- [CakeML](https://cakeml.org/): verified self-hosting subset of SML
+- [Alice ML](https://www.ps.uni-saarland.de/alice/): SML with extensions for concurrent, distributed, and constraint programming
+- [Moscow ML](https://mosml.org/): lightweight compiler and interpreter
+- [HaMLet](https://people.mpi-sws.org/~rossberg/hamlet/): self-hosting SML interpreter written entirely in SML
 
 # Package managers
 
