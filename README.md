@@ -1,12 +1,14 @@
-# awesome-sml
-Useful things for Standard ML
+# Awesome Standard ML
 
-# Language References
+Useful things for the Standard ML programming language.
+
+# Language references
+
 - [SML Family Web site](http://sml-family.org/)
 - [Language definition](http://sml-family.org/sml97-defn.pdf)
 - [Programming in Standard ML - Robert Harper](http://www.cs.cmu.edu/~rwh/isml/book.pdf)
 
-# Tutorial books
+# Tutorials
 
 - [Unix System Programming with SML](http://web.archive.org/web/20040618124645/http://web.access.net.au/felixadv/files/output/sysprogsml.pdf)
 
@@ -29,7 +31,7 @@ Useful things for Standard ML
 
 # Blogs
 
-[Robert Harper](https://existentialtype.wordpress.com/)
+- [Robert Harper](https://existentialtype.wordpress.com/)
 
 # Related
 
