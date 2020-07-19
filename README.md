@@ -34,7 +34,7 @@ Useful things for the Standard ML programming language.
 
 # Blogs
 
-- [Robert Harper](https://existentialtype.wordpress.com/)
+- [Existential Type by Robert Harper](https://existentialtype.wordpress.com/)
 
 # Related
 
