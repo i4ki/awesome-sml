@@ -25,6 +25,8 @@ Useful things for the Standard ML programming language.
 - [Alice ML](https://www.ps.uni-saarland.de/alice/): SML with extensions for concurrent, distributed, and constraint programming
 - [Moscow ML](https://mosml.org/): lightweight compiler and interpreter
 - [HaMLet](https://people.mpi-sws.org/~rossberg/hamlet/): self-hosting SML interpreter written entirely in SML
+- [MLKit](https://elsman.com/mlkit/): new compiler with versatile GC
+- [SMLtoJs](http://web.archive.org/web/20181130122359/http://www.smlserver.org/smltojs/): SML-to-JavaScript transpiler
 
 # Package managers
 
