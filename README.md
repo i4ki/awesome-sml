@@ -34,10 +34,8 @@ Useful things for the Standard ML programming language.
 - [Smackage](https://github.com/standardml/smackage): package manager for many implementations
 - [SML/NJ Compilation Manager (CM)](https://smlnj.org/doc/CM/)
 
-# Blogs
+# Commentary
 
-- [Existential Type by Robert Harper](https://existentialtype.wordpress.com/)
-
-# Related
-
-- [Reflections on Standard ML - David Macqueen](http://sml-family.org/papers/MacQueen-reflections.pdf)
+- [Existential Type - a blog by Robert Harper](https://existentialtype.wordpress.com/)
+- [Critique of Standard ML by Andrew Appel](https://smlfamily.github.io/papers/Appel-critique-SML.pdf)
+- [Reflections on Standard ML by David Macqueen](http://sml-family.org/papers/MacQueen-reflections.pdf)
