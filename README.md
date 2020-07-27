@@ -38,4 +38,4 @@ Useful things for the Standard ML programming language.
 
 - [Existential Type - a blog by Robert Harper](https://existentialtype.wordpress.com/)
 - [Critique of Standard ML by Andrew Appel](https://smlfamily.github.io/papers/Appel-critique-SML.pdf)
-- [Reflections on Standard ML by David Macqueen](http://sml-family.org/papers/MacQueen-reflections.pdf)
+- [Reflections on Standard ML by David MacQueen](http://sml-family.org/papers/MacQueen-reflections.pdf)
