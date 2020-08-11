@@ -15,6 +15,7 @@ Useful things for the Standard ML programming language.
 - [Programming in Standard ML by Robert Harper](https://www.cs.cmu.edu/~rwh/introsml/contents.htm) (and [PDF version](http://www.cs.cmu.edu/~rwh/isml/book.pdf))
 - [Standard ML Programming at Wikibooks](https://en.wikibooks.org/wiki/Standard_ML_Programming)
 - [Unix System Programming with SML](http://web.archive.org/web/20040618124645/http://web.access.net.au/felixadv/files/output/sysprogsml.pdf)
+- [SML at Rosetta Code](https://rosettacode.org/wiki/Category:Standard_ML)
 
 # Data structures
 
@@ -52,3 +53,7 @@ Useful things for the Standard ML programming language.
 - [Existential Type - a blog by Robert Harper](https://existentialtype.wordpress.com/)
 - [Critique of Standard ML by Andrew Appel](http://sml-family.org/papers/Appel-critique-SML.pdf)
 - [Reflections on Standard ML by David MacQueen](http://sml-family.org/papers/MacQueen-reflections.pdf)
+
+# Community
+
+- [Standard ML Reddit](https://www.reddit.com/r/sml/)
