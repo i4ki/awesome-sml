@@ -57,3 +57,4 @@ Useful things for the Standard ML programming language.
 # Community
 
 - [Standard ML Reddit](https://www.reddit.com/r/sml/)
+- [Carnegie Mellon University (CMU) School of Computer Science](https://www.cs.cmu.edu)
