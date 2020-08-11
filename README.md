@@ -2,15 +2,18 @@
 
 Useful things for the Standard ML programming language.
 
-# Language references
+# Language definition
 
-- [SML Family Web site](http://sml-family.org/)
-- [Language definition](http://sml-family.org/sml97-defn.pdf)
-- [Programming in Standard ML - Robert Harper](http://www.cs.cmu.edu/~rwh/isml/book.pdf)
-- [Complete grammar for SML syntax](https://people.mpi-sws.org/~rossberg/sml.html)
+- [SML Family website](https://sml-family.org/)
+- [Definition of Standard ML](https://sml-family.org/sml90-defn.pdf) (SML'90)
+- **[Definition of Standard ML, Revised](https://sml-family.org/sml97-defn.pdf)** (SML'97)
+- [Complete grammar for SML'97 syntax](https://people.mpi-sws.org/~rossberg/sml.html)
+- [Mechanization of Standard ML](https://github.com/SMLFamily/The-Mechanization-of-Standard-ML)
 
 # Tutorials
 
+- [Programming in Standard ML by Robert Harper](https://www.cs.cmu.edu/~rwh/introsml/contents.htm) (and [PDF version](http://www.cs.cmu.edu/~rwh/isml/book.pdf))
+- [Standard ML Programming at Wikibooks](https://en.wikibooks.org/wiki/Standard_ML_Programming)
 - [Unix System Programming with SML](http://web.archive.org/web/20040618124645/http://web.access.net.au/felixadv/files/output/sysprogsml.pdf)
 
 # Data structures
