@@ -29,6 +29,16 @@ Useful things for the Standard ML programming language.
 - [MLKit](https://elsman.com/mlkit/): new compiler with versatile GC
 - [SMLtoJs](http://web.archive.org/web/20181130122359/http://www.smlserver.org/smltojs/): SML-to-JavaScript transpiler
 
+# Standard libraries (de jure and de facto)
+
+- [Standard ML Basis Library](https://smlfamily.github.io/Basis/)
+- [Concurrent ML](http://cml.cs.uchicago.edu)
+- [SML/NJ library](https://www.smlnj.org/doc/smlnj-lib/) also ships with MLton
+
+# Extra Libraries
+
+- [Libraries for MLton](http://mlton.org/Libraries)
+
 # Build tools
 
 - [Smackage](https://github.com/standardml/smackage): package manager for many implementations
