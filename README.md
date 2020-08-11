@@ -4,9 +4,9 @@ Useful things for the Standard ML programming language.
 
 # Language definition
 
-- [SML Family website](https://sml-family.org/)
-- [Definition of Standard ML](https://sml-family.org/sml90-defn.pdf) (SML'90)
-- **[Definition of Standard ML, Revised](https://sml-family.org/sml97-defn.pdf)** (SML'97)
+- [SML Family website](http://sml-family.org/)
+- [Definition of Standard ML](http://sml-family.org/sml90-defn.pdf) (SML'90)
+- **[Definition of Standard ML, Revised](http://sml-family.org/sml97-defn.pdf)** (SML'97)
 - [Complete grammar for SML'97 syntax](https://people.mpi-sws.org/~rossberg/sml.html)
 - [Mechanization of Standard ML](https://github.com/SMLFamily/The-Mechanization-of-Standard-ML)
 
@@ -34,7 +34,7 @@ Useful things for the Standard ML programming language.
 
 # Standard libraries (de jure and de facto)
 
-- [Standard ML Basis Library](https://sml-family.org/Basis/)
+- [Standard ML Basis Library](http://sml-family.org/Basis/)
 - [Concurrent ML](http://cml.cs.uchicago.edu)
 - [SML/NJ library](https://www.smlnj.org/doc/smlnj-lib/) also ships with MLton
 
@@ -50,5 +50,5 @@ Useful things for the Standard ML programming language.
 # Commentary
 
 - [Existential Type - a blog by Robert Harper](https://existentialtype.wordpress.com/)
-- [Critique of Standard ML by Andrew Appel](https://sml-family.org/papers/Appel-critique-SML.pdf)
+- [Critique of Standard ML by Andrew Appel](http://sml-family.org/papers/Appel-critique-SML.pdf)
 - [Reflections on Standard ML by David MacQueen](http://sml-family.org/papers/MacQueen-reflections.pdf)
