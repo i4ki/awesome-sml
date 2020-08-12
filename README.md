@@ -42,6 +42,7 @@ Useful things for the Standard ML programming language.
 
 # Extra Libraries
 
+- [`MLton` structure](http://www.mlton.org/MLtonStructure)
 - [Libraries for MLton](http://mlton.org/Libraries)
 
 # Build tools
