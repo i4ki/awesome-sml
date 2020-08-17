@@ -58,5 +58,7 @@ Useful things for the Standard ML programming language.
 
 # Community
 
+- Freenode #sml IRC channel
 - [Standard ML Reddit](https://www.reddit.com/r/sml/)
+- [Standard ML Reddit Wiki](https://www.reddit.com/r/sml/wiki/index)
 - [Carnegie Mellon University (CMU) School of Computer Science](https://www.cs.cmu.edu)
