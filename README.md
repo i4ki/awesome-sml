@@ -32,6 +32,7 @@ Useful things for the Standard ML programming language.
 - [Moscow ML](https://mosml.org/): lightweight compiler and interpreter
 - [HaMLet](https://people.mpi-sws.org/~rossberg/hamlet/): self-hosting SML interpreter written entirely in SML
 - [MLKit](https://elsman.com/mlkit/): new compiler with versatile GC
+- [SML#](https://www.pllab.riec.tohoku.ac.jp/smlsharp/): new compiler with practical language extensions
 - [SMLtoJs](http://web.archive.org/web/20181130122359/http://www.smlserver.org/smltojs/): SML-to-JavaScript transpiler
 
 # Standard libraries (de jure and de facto)
