@@ -14,6 +14,7 @@ Useful things for the Standard ML programming language.
 # Tutorials
 
 - [Programming in Standard ML by Robert Harper](https://www.cs.cmu.edu/~rwh/introsml/) (and [PDF version](https://www.cs.cmu.edu/~rwh/isml/book.pdf))
+- [smlhelp](https://smlhelp.github.io/)
 - [Standard ML Programming at Wikibooks](https://en.wikibooks.org/wiki/Standard_ML_Programming)
 - [Unix System Programming with SML](https://web.archive.org/web/20040618124645/http://web.access.net.au/felixadv/files/output/sysprogsml.pdf)
 - [SML at Rosetta Code](https://rosettacode.org/wiki/Category:Standard_ML)
