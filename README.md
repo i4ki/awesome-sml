@@ -26,6 +26,7 @@ Useful things for the Standard ML programming language.
 
 - [SML/NJ (Standard ML of New Jersey)](http://www.smlnj.org/): the canonical SML compiler
 - [MLton](http://mlton.org/): very advanced whole-program optimizing compiler
+  - [MaPLe](https://github.com/MPLLang): fork-join parallelism extension for MLton
 - [Poly/ML](https://polyml.org): good compiler with threads and concurrent GC
 - [CakeML](https://cakeml.org/): verified self-hosting subset of SML
 - [Alice ML](https://www.ps.uni-saarland.de/alice/): SML with extensions for concurrent, distributed, and constraint programming
