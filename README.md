@@ -36,6 +36,7 @@ Useful things for the Standard ML programming language.
 - [MLKit](https://elsman.com/mlkit/): new compiler with versatile GC
 - [SML#](https://www.pllab.riec.tohoku.ac.jp/smlsharp/): new compiler with practical language extensions
 - [SML.NET](https://www.cl.cam.ac.uk/research/tsg/SMLNET/): compiler targeting the .NET Common Language Runtime
+- [MLj](http://www.dcs.ed.ac.uk/home/mlj/): compiles a SML subset to JVM bytecode
 - [SMLtoJs](http://web.archive.org/web/20181130122359/http://www.smlserver.org/smltojs/): SML-to-JavaScript transpiler
 
 # Standard libraries (de jure and de facto)
