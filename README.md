@@ -17,7 +17,7 @@ Useful things for the Standard ML programming language.
 - [Modules Matter Most](http://macqueenfest.cs.uchicago.edu/slides/harper.pdf): presentation and rationale of the module system
 - [smlhelp](https://smlhelp.github.io/)
 - [Standard ML Programming at Wikibooks](https://en.wikibooks.org/wiki/Standard_ML_Programming)
-- [Unix System Programming with SML](https://web.archive.org/web/20040618124645/http://web.access.net.au/felixadv/files/output/sysprogsml.pdf)
+- [Unix System Programming with SML](http://mlton.org/References.attachments/Shipman02.pdf)
 - [SML at Rosetta Code](https://rosettacode.org/wiki/Category:Standard_ML)
 
 # Data structures
