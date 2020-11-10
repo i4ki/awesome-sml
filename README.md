@@ -36,9 +36,11 @@ Useful things for the Standard ML programming language.
 - [HaMLet](https://people.mpi-sws.org/~rossberg/hamlet/): self-hosting SML interpreter written entirely in SML
 - [MLKit](https://elsman.com/mlkit/): new compiler with versatile GC
 - [SML#](https://www.pllab.riec.tohoku.ac.jp/smlsharp/): new compiler with practical language extensions
+- [MLWorks](https://github.com/Ravenbrook/mlworks): old commercial compiler from Harlequin, open-sourced by Ravenbrook
 - [SML.NET](https://www.cl.cam.ac.uk/research/tsg/SMLNET/): compiler targeting the .NET Common Language Runtime
 - [MLj](http://www.dcs.ed.ac.uk/home/mlj/): compiles a SML subset to JVM bytecode
 - [SMLtoJs](http://web.archive.org/web/20181130122359/http://www.smlserver.org/smltojs/): SML-to-JavaScript transpiler
+- [WebML](https://github.com/KeenS/webml): WebAssembly compiler and REPL that runs on browsers
 
 # Standard libraries (de jure and de facto)
 
