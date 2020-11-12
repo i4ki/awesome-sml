@@ -8,6 +8,7 @@ Useful things for the Standard ML programming language.
 - [Definition of Standard ML (SML'90)](http://sml-family.org/sml90-defn.pdf)
 - **[Definition of Standard ML (SML'97)](http://sml-family.org/sml97-defn.pdf)**
 - [Full grammar of SML'97 syntax](https://people.mpi-sws.org/~rossberg/sml.html)
+- [Defects in SML'97](https://people.mpi-sws.org/~rossberg/hamlet/defects.pdf)
 - [Mechanization of Standard ML](https://github.com/SMLFamily/The-Mechanization-of-Standard-ML)
 - [Successor ML](https://github.com/SMLFamily/Successor-ML)
 
