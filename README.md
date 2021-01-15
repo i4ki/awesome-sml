@@ -14,11 +14,10 @@ Useful things for the Standard ML programming language.
 
 # Tutorials
 
-- [Programming in Standard ML by Robert Harper](https://www.cs.cmu.edu/~rwh/introsml/) (and [PDF version](https://www.cs.cmu.edu/~rwh/isml/book.pdf))
-- [Tips for Computer Scientists on Standard ML (Revised) (Mads Tofte)](https://web.archive.org/web/20130310061500/http://www.itu.dk/people/tofte/publ/tips.pdf)
-- [Programming in Standard ML (Robert Harper)](http://www.cs.cmu.edu/~rwh/isml/book.pdf)
-- [A Gentle Introduction to ML (Andrew Cummings)](https://web.archive.org/web/20100209123129/http://www.dcs.napier.ac.uk/course-notes/sml/manual.html)
+- [Programming in Standard ML (Robert Harper)](https://www.cs.cmu.edu/~rwh/introsml/) (and [PDF version](https://www.cs.cmu.edu/~rwh/isml/book.pdf))
 - [Programming in Standard ML '97: An Online Tutorial (Stephen Gilmore)](http://www.dcs.ed.ac.uk/home/stg/NOTES/)
+- [Tips for Computer Scientists on Standard ML (Revised) (Mads Tofte)](https://web.archive.org/web/20130310061500/http://www.itu.dk/people/tofte/publ/tips.pdf)
+- [A Gentle Introduction to ML (Andrew Cummings)](https://web.archive.org/web/20100209123129/http://www.dcs.napier.ac.uk/course-notes/sml/manual.html)
 - [Programming Languages course notes (Dan Grossman)](https://courses.cs.washington.edu/courses/cse341/19sp/#lectures)
 - [Introduction to Standard ML (Atsushi Ohori)](https://www.pllab.riec.tohoku.ac.jp/smlsharp/smlIntroSlides.pdf)
 - [Standard ML Programming at Wikibooks](https://en.wikibooks.org/wiki/Standard_ML_Programming)
