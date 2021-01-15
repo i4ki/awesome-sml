@@ -15,9 +15,22 @@ Useful things for the Standard ML programming language.
 # Tutorials
 
 - [Programming in Standard ML by Robert Harper](https://www.cs.cmu.edu/~rwh/introsml/) (and [PDF version](https://www.cs.cmu.edu/~rwh/isml/book.pdf))
-- [Modules Matter Most](http://macqueenfest.cs.uchicago.edu/slides/harper.pdf): presentation and rationale of the module system
-- [smlhelp](https://smlhelp.github.io/)
+- [Tips for Computer Scientists on Standard ML (Revised) (Mads Tofte)](https://web.archive.org/web/20130310061500/http://www.itu.dk/people/tofte/publ/tips.pdf)
+- [Programming in Standard ML (Robert Harper)](http://www.cs.cmu.edu/~rwh/isml/book.pdf)
+- [A Gentle Introduction to ML (Andrew Cummings)](https://web.archive.org/web/20100209123129/http://www.dcs.napier.ac.uk/course-notes/sml/manual.html)
+- [Programming in Standard ML '97: An Online Tutorial (Stephen Gilmore)](http://www.dcs.ed.ac.uk/home/stg/NOTES/)
+- [Programming Languages course notes (Dan Grossman)](https://courses.cs.washington.edu/courses/cse341/19sp/#lectures)
+- [Introduction to Standard ML (Atsushi Ohori)](https://www.pllab.riec.tohoku.ac.jp/smlsharp/smlIntroSlides.pdf)
 - [Standard ML Programming at Wikibooks](https://en.wikibooks.org/wiki/Standard_ML_Programming)
+
+# Modules
+
+- [Modules Matter Most](http://macqueenfest.cs.uchicago.edu/slides/harper.pdf): presentation and rationale of the module system
+- [Essentials of Standard ML Modules (Mads Tofte)](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.165.95&rank=1)
+
+# References
+
+- [smlhelp](https://smlhelp.github.io/)
 - [Unix System Programming with SML](http://mlton.org/References.attachments/Shipman02.pdf)
 - [SML at Rosetta Code](https://rosettacode.org/wiki/Category:Standard_ML)
 
