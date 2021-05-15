@@ -71,6 +71,10 @@ Useful things for the Standard ML programming language.
 - [Smackage](https://github.com/standardml/smackage): package manager for many implementations
 - [SML/NJ Compilation Manager (CM)](https://smlnj.org/doc/CM/)
 
+# Applications
+
+- [FoxNet](https://www.cs.cmu.edu/~fox/foxnet.html): TCP/IP stack in SML
+
 # Commentary
 
 - [Existential Type - a blog by Robert Harper](https://existentialtype.wordpress.com/)
