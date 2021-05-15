@@ -54,6 +54,7 @@ Useful things for the Standard ML programming language.
 - [MLj](http://www.dcs.ed.ac.uk/home/mlj/): compiles a SML subset to JVM bytecode
 - [SMLtoJs](http://web.archive.org/web/20181130122359/http://www.smlserver.org/smltojs/): SML-to-JavaScript transpiler
 - [WebML](https://github.com/KeenS/webml): WebAssembly compiler and REPL that runs on browsers
+- [LunarML](https://github.com/minoki/LunarML): transpile to Lua
 
 # Standard libraries (de jure and de facto)
 
