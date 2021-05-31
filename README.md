@@ -21,6 +21,7 @@ Useful things for the Standard ML programming language.
 - [Programming Languages course notes (Dan Grossman)](https://courses.cs.washington.edu/courses/cse341/19sp/#lectures)
 - [Introduction to Standard ML (Atsushi Ohori)](https://www.pllab.riec.tohoku.ac.jp/smlsharp/smlIntroSlides.pdf)
 - [Standard ML Programming at Wikibooks](https://en.wikibooks.org/wiki/Standard_ML_Programming)
+- [CMU CS 15-150: Functional Programming](https://www.cs.cmu.edu/~15150/)
 
 # Modules
 
