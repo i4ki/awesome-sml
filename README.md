@@ -76,6 +76,7 @@ Useful things for the Standard ML programming language.
 
 - [Smackage](https://github.com/standardml/smackage): package manager for many implementations
 - [SML/NJ Compilation Manager (CM)](https://smlnj.org/doc/CM/)
+- [PreML](https://github.com/br0ns/PreML): preprocessor for SML
 
 # Applications
 
