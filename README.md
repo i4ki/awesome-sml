@@ -57,9 +57,13 @@ Useful things for the Standard ML programming language.
 - [MLWorks](https://github.com/Ravenbrook/mlworks): old commercial compiler from Harlequin, open-sourced by Ravenbrook
 - [SML.NET](https://www.cl.cam.ac.uk/research/tsg/SMLNET/): compiler targeting the .NET Common Language Runtime
 - [MLj](http://www.dcs.ed.ac.uk/home/mlj/): compiles a SML subset to JVM bytecode
-- [SMLtoJs](http://web.archive.org/web/20181130122359/http://www.smlserver.org/smltojs/): SML-to-JavaScript transpiler
+- [SMLtoJs](https://github.com/melsman/mlkit/blob/master/README_SMLTOJS.md): SML-to-JavaScript transpiler
+- [SOSML](https://github.com/SOSML/SOSML): Online Interpreter for Standard ML, written in TypeScript
 - [WebML](https://github.com/KeenS/webml): WebAssembly compiler and REPL that runs on browsers
 - [LunarML](https://github.com/minoki/LunarML): transpile to Lua
+- [Morel](https://github.com/julianhyde/morel): Standard ML interpreter, with relational extensions, implemented in Java
+- [Further implementation overview](http://www.macs.hw.ac.uk/ultra/skalpel/html/sml.html): provides
+  additional information per implementation, such as FFI, availability of REPL.
 
 # Standard libraries (de jure and de facto)
 
@@ -71,12 +75,24 @@ Useful things for the Standard ML programming language.
 
 - [`MLton` structure](http://www.mlton.org/MLtonStructure)
 - [Libraries for MLton](http://mlton.org/Libraries)
+- [cmlib](https://github.com/standardml/cmlib) basic library of algorithms and data structures
+
+# Further libraries with support for multiple implementations
+
+- [sml-rmath](https://github.com/mclements/sml-rmath) library supporting seven SML
+  implementations/dialects (for the [Rmath library](https://packages.debian.org/sid/r-mathlib))
+- [sml-iconv](https://github.com/kni/sml-iconv) library supporting MLton and Poly/ML, based on FFI,
+  providing bindings for iconv
 
 # Build tools
 
 - [Smackage](https://github.com/standardml/smackage): package manager for many implementations
-- [SML/NJ Compilation Manager (CM)](https://smlnj.org/doc/CM/)
+- [SML/NJ Compilation Manager (CM)](https://smlnj.org/doc/CM/);
+  for SML/NJ, also partly supported by MLton;
+  also see the [Compiler Hacker's Guide to CM](https://github.com/sml-nj/smlnj/tree/master/sml/system)
 - [PreML](https://github.com/br0ns/PreML): preprocessor for SML
+- [smlformat](https://github.com/jluningp/smlformat): auto-formatter for the Standard ML language
+  (based on SML/NJ)
 
 # Applications
 
