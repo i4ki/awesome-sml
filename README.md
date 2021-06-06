@@ -96,6 +96,11 @@ Useful things for the Standard ML programming language.
 - [smlformat](https://github.com/jluningp/smlformat): auto-formatter for the Standard ML language
   (based on SML/NJ)
 
+# Editing tools
+
+- [Emacs sml-mode](http://www.iro.umontreal.ca/~monnier/elisp/): editing mode for SML code
+- [Emacs sml-basis](https://melpa.org/#/sml-basis): Basis Library documentation
+
 # Applications
 
 - [FoxNet](https://www.cs.cmu.edu/~fox/foxnet.html): TCP/IP stack in SML
