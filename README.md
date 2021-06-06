@@ -14,6 +14,7 @@ Useful things for the Standard ML programming language.
 
 # Tutorials
 
+- [ML for the Working Programmer](https://www.cl.cam.ac.uk/~lp15/MLbook/pub-details.html) (2nd Edition, full text)
 - [Programming in Standard ML (Robert Harper)](https://www.cs.cmu.edu/~rwh/introsml/) (and [PDF version](https://www.cs.cmu.edu/~rwh/isml/book.pdf))
 - [Programming in Standard ML '97: An Online Tutorial (Stephen Gilmore)](http://www.dcs.ed.ac.uk/home/stg/NOTES/)
 - [Tips for Computer Scientists on Standard ML (Revised) (Mads Tofte)](https://web.archive.org/web/20130310061500/http://www.itu.dk/people/tofte/publ/tips.pdf)
