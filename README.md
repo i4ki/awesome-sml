@@ -67,22 +67,22 @@ Useful things for the Standard ML programming language.
 - [Further implementation overview](http://www.macs.hw.ac.uk/ultra/skalpel/html/sml.html): provides
   additional information per implementation, such as FFI, availability of REPL.
 
-# Standard libraries (de jure and de facto)
+# Standard libraries
 
-- [Standard ML Basis Library](http://sml-family.org/Basis/)
-- [Concurrent ML](http://cml.cs.uchicago.edu)
-- [SML/NJ library](https://www.smlnj.org/doc/smlnj-lib/) also ships with MLton
-- [Poly/ML library](https://polyml.org/Doc.html)
-- [Moscow ML library](https://mosml.org/mosmllib/)
+- **[Standard ML Basis Library](http://sml-family.org/Basis/)**
+- **[Concurrent ML](http://cml.cs.uchicago.edu)**
 
-# Extra Libraries
+## Implementation libraries
 
+- [SML/NJ libraries](https://www.smlnj.org/doc/smlnj-lib/) also ships with MLton
+- [Poly/ML libraries](https://polyml.org/Doc.html)
+- [Moscow ML libraries](https://mosml.org/mosmllib/)
 - [`MLton` structure](http://www.mlton.org/MLtonStructure)
-- [Libraries for MLton](http://mlton.org/Libraries)
+- [MLton libraries](http://mlton.org/Libraries)
+
+## Third-party libraries
+
 - [cmlib](https://github.com/standardml/cmlib) basic library of algorithms and data structures
-
-# Further libraries with support for multiple implementations
-
 - [sml-rmath](https://github.com/mclements/sml-rmath) library supporting seven SML
   implementations/dialects (for the [Rmath library](https://packages.debian.org/sid/r-mathlib))
 - [sml-iconv](https://github.com/kni/sml-iconv) library supporting MLton and Poly/ML, based on FFI,
