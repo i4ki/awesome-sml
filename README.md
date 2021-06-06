@@ -72,6 +72,8 @@ Useful things for the Standard ML programming language.
 - [Standard ML Basis Library](http://sml-family.org/Basis/)
 - [Concurrent ML](http://cml.cs.uchicago.edu)
 - [SML/NJ library](https://www.smlnj.org/doc/smlnj-lib/) also ships with MLton
+- [Poly/ML library](https://polyml.org/Doc.html)
+- [Moscow ML library](https://mosml.org/mosmllib/)
 
 # Extra Libraries
 
