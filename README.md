@@ -97,6 +97,7 @@ Useful things for the Standard ML programming language.
 - [PreML](https://github.com/br0ns/PreML): preprocessor for SML
 - [smlformat](https://github.com/jluningp/smlformat): auto-formatter for the Standard ML language
   (based on SML/NJ)
+- [smlpkg](https://github.com/diku-dk/smlpkg/): A generic, implementation-agnostic package manager for Standard ML.
 
 # Editing tools
 
