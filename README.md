@@ -103,6 +103,7 @@ Useful things for the Standard ML programming language.
 
 - [Emacs sml-mode](http://www.iro.umontreal.ca/~monnier/elisp/): editing mode for SML code
 - [Emacs sml-basis](https://melpa.org/#/sml-basis): Basis Library documentation
+- [Millet SML language server](https://azdavis.net/posts/millet/): Inline errors, syntax helpers, and other entry-level langserver features
 
 # Applications
 
