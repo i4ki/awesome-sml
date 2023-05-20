@@ -98,6 +98,7 @@ Useful things for the Standard ML programming language.
 - [smlformat](https://github.com/jluningp/smlformat): auto-formatter for the Standard ML language
   (based on SML/NJ)
 - [smlpkg](https://github.com/diku-dk/smlpkg/): A generic, implementation-agnostic package manager for Standard ML.
+- [Bazel SML Rules](https://github.com/xie-dongping/sml_rules/): Bazel build rules support for SML (via MLton).
 
 # Editing tools
 
