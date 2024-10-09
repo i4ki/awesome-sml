@@ -32,7 +32,7 @@ Useful things for the Standard ML programming language.
 # Modules
 
 - [Modules Matter Most](http://macqueenfest.cs.uchicago.edu/slides/harper.pdf): presentation and rationale of the module system
-- [Essentials of Standard ML Modules (Mads Tofte)](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.165.95&rank=1)
+- [Essentials of Standard ML Modules (Mads Tofte)](https://www.classes.cs.uchicago.edu/archive/2005/winter/33600-1/docs/Tofte_modules_tutorial.pdf)
 
 # References
 
